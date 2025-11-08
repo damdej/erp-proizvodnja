@@ -1,0 +1,7 @@
+{
+  "name": "erp-backend",
+  "type": "module",
+  "scripts": {
+    "dev": "nodemon index.js"
+  }
+}
